@@ -28,6 +28,9 @@ var config = {
      */
     imgs: {
         "心爱的黄黄": "./imgs/xinaidehuanghuang.jpg",
+         "祝我亲爱的黄黄生日快乐": "./imgs/13.jpg",
+         "今天是我们相爱3878天": "./imgs/14.jpg",
+        "还沉浸在肚子里有宝宝的喜悦": "./imgs/12.jpg",
         "今年宝宝已经会叫妈妈了": "./imgs/baobao.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
