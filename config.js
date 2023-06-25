@@ -28,6 +28,7 @@ var config = {
      */
     imgs: {
         "心爱的黄黄": "./imgs/xinaidehuanghuang.jpg",
+        "今天是你的生日": "./imgs/16.jpg",
         "祝我亲爱的黄黄生日快乐": "./imgs/13.jpg",
         "这是我们在一起的": "./imgs/14.jpg",
          "今天是我们相爱3878天": "./imgs/15.jpg",
